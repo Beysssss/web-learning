@@ -1,0 +1,12 @@
+.right{
+		float:right;
+	}
+.italic{
+	font-style:italic;
+	}
+.content{
+    float:left;
+    font-size:15px;
+    padding-right:5%;
+    padding-left:5%;
+}
